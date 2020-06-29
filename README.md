@@ -1,0 +1,1 @@
+Project created for GoStack`s course challenge on creating a restfull nodejs backend satisfying some pre defined tests
